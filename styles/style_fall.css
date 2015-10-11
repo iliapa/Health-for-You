@@ -1,0 +1,25 @@
+				h1 {
+				font-family: "Arial"
+				text-align:center;
+			}
+				h2 {
+				font-family: "Arial"
+			}
+				p6 {
+				font-family: "Arial"
+				color:green;
+				text-align:center;
+			}
+				.panel-default {
+				background-color: #EFEFEF !important
+			}
+				.panel-default {
+				width:101%
+			}
+				body {
+				background-color: black;
+			}
+				.center {
+				margin: auto;
+				width: 51%;
+			}

@@ -1,0 +1,13 @@
+	.panel-default {
+		background-color: #EFEFEF !important
+	}
+		.panel-default {
+		width:101%
+	}
+		body {
+		background-color: black;
+	}
+		.center {
+		margin: auto;
+		width: 51%;
+	}
